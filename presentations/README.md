@@ -1,1 +1,0 @@
-Please upload a pdf of your presentation in this folder. Name the presentation `ar1_ws2425_yoursurname.pdf`.

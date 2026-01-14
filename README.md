@@ -1,1 +1,0 @@
-Go to: https://ctechfilmuniversity.github.io/lecture_ws2526_academic_readings_1/
